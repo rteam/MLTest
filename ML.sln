@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ML", "ML\ML.pyproj", "{9748D995-AA0E-4FA5-A036-E94DC7D10438}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot", "Bot\Bot.csproj", "{A969C480-D2C8-4401-9940-2AB47C304D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9748D995-AA0E-4FA5-A036-E94DC7D10438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9748D995-AA0E-4FA5-A036-E94DC7D10438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A969C480-D2C8-4401-9940-2AB47C304D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A969C480-D2C8-4401-9940-2AB47C304D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A969C480-D2C8-4401-9940-2AB47C304D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A969C480-D2C8-4401-9940-2AB47C304D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
