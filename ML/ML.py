@@ -1,7 +1,7 @@
 import Perceptron
 #激活函数
 def f(x):
-    return 1 if x > 1 else 0
+    return 1 if x > 0 else 0
 
 def train():
     p = Perceptron.Perceptron(2,f)
